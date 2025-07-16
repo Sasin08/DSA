@@ -1,4 +1,4 @@
-<b>Equilibrium Point</b
+<b>Equilibrium Point</b>
 
 Given an array of integers arr[], the task is to find the first equilibrium point in the array.
 
